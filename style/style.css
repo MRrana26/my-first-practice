@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    margin: 10px;
+}
+
+#first_heading{
+    color: blue;
+    width: 60%;
+    text-align: center;
+}
+
+#first_paragraph{
+        width: 60%;
+        text-align: justify;
+    }
+
+#photo_gallery{
+    text-align: center;
+    width: 60%;
+
+}
+#photo_gallery{
+    border: blue solid;
+    padding: 15px;
+    border-radius: 50px 0px 50px 0px;
+}
+.photo{
+    border: aquamarine solid;
+    border-radius: 0px 20px 0px 20px;
+}
